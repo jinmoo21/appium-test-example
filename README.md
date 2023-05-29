@@ -1,2 +1,2 @@
 # Appium Test Example
-Appium test example that Android web/app, iOS web/app.
+Appium test example that including Android web/app, iOS web/app.
